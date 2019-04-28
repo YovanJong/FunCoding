@@ -1,0 +1,8 @@
+.flex-head{
+    display: flex;
+}
+
+.flex-akun{
+    justify-items: right;
+    align-self: right;
+}
