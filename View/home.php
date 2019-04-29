@@ -23,9 +23,9 @@
             </div>
             <div><hr></div>
             <div id="right">
-                <div><a href="login.php"><input type="button" value="Log-In"></a></div>
+                <div><a href="login"><input type="button" value="Log-In"></a></div>
                 <br>
-                <div><a href="register.php"><input type="button" value="Sign-Up"></a></div>
+                <div><a href="signup"><input type="button" value="Sign-Up"></a></div>
             </div>
         </div>
     </body>
@@ -42,7 +42,7 @@
             slideIndex++;
             if (slideIndex > slides.length) {slideIndex = 1}    
             slides[slideIndex-1].style.display = "block";  
-            setTimeout(showSlides, 4000); // Change image every 2 seconds
+            setTimeout(showSlides, 4000);
         }
     </script>
     

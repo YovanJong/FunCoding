@@ -1,13 +1,13 @@
 <html>
 <head>
-    <link rel="stylesheet" href="styles/stylelogin.css">
+    <link rel="stylesheet" href="View/styles/stylelogin.css">
 </head>
 <body>
     <div class="flex-register">
         <div>
             <h1>Create Your Account</h1>
             <form style="margin-top:20%;">  
-                <a href="index.php"><img src="images/logo.png"></a> <br>
+                <a href="index.php"><img src="View/images/logo.png"></a> <br>
                 <label>Full name</label><br>
                 <input id="txt" type="text"> <br>
                 <label>Username</label> <br>
@@ -19,7 +19,7 @@
                 <br><br>
                 <input id="buttons" type="submit" value="Register"> <br>
                 <hr>
-                <a href="login.php"><input id="buttons" type="button" value="Login"></a>
+                <a href="login"><input id="buttons" type="button" value="Login"></a>
                 <br><br>  
             </form>
         </div>
