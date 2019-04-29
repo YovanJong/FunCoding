@@ -1,7 +1,7 @@
 <html>
     <head>
         <title>Fun Coding</title>
-        <link rel="stylesheet" href="View/styles/styleindex.css"/>
+        <link rel="stylesheet" href="View/styles/stylehome.css"/>
     </head>
     <body id="bground">
         <div id="container">
